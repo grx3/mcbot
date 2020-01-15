@@ -45,3 +45,6 @@ Cursing, flood control, spam blocking, all editable
 
 Stats
 A pretty exhaustive stat system of anything it can log via the interface it has. How many joins, what ips, time frames, amount of commands used, which commands, how much chat...
+
+Demo: minecraft://play.grx3.com
+Website: http://grx3.com

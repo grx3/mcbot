@@ -1,0 +1,16 @@
+.container{margin:0 auto;width:800px;}
+.message {color:red;}
+.page{width:100%;border:1px dotted #666;padding:10px;}
+input,textarea,select,label{margin-bottom:8px;display:block;font-size:16pt;width:100%;}
+textarea{height:400px;}
+input[type=submit]{border:none;margin:3px;padding:5px 7px;background-color:#4CAF50;color:#fff;box-shadow:2px 2px 2px #fff;}
+input[type=submit]:hover{box-shadow:2px 2px 2px gray;}
+input[type=checkbox]{height:18px;}
+.description{font-size:10pt;color:#ccc;}
+.column{width:49%;float:left;text-align:left;}
+.tabbar {padding-top:5px;margin:0px;}
+.tabbar ul {list-style:none;padding:0px;margin-bottom:8px;}
+.tabbar li {display:inline;border:1px solid #999;background-color:#cfcfcf;border-radius:10px 10px 0px 0px;padding:10px;margin:0px;box-shadow:1px 1px 1px #666;}
+.tabbar a {color:black;text-shadow:1px 1px 1px #666;text-decoration:none;}	
+.tabbar .current {background-color:#4CAF50;}
+.tabbar .current a {color:white;}

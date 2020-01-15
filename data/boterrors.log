@@ -1,0 +1,86 @@
+[05-Jan-2020 14:13:46 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 56
+[05-Jan-2020 14:13:46 UTC] PHP Notice:  Undefined variable: rconstatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 60
+[05-Jan-2020 14:13:46 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 65
+[05-Jan-2020 14:14:11 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 56
+[05-Jan-2020 14:14:11 UTC] PHP Notice:  Undefined variable: rconstatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 60
+[05-Jan-2020 14:14:11 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 65
+[05-Jan-2020 14:25:38 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 60
+[05-Jan-2020 14:25:38 UTC] PHP Notice:  Undefined variable: rconstatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 64
+[05-Jan-2020 14:25:38 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 69
+[05-Jan-2020 14:28:34 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 69
+[05-Jan-2020 14:28:34 UTC] PHP Notice:  Undefined variable: rconstatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 73
+[05-Jan-2020 14:28:34 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 78
+[05-Jan-2020 14:28:52 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 70
+[05-Jan-2020 14:28:52 UTC] PHP Notice:  Undefined variable: rconstatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 74
+[05-Jan-2020 14:28:52 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 79
+[05-Jan-2020 14:29:35 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 70
+[05-Jan-2020 14:29:35 UTC] PHP Notice:  Undefined variable: rconstatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 74
+[05-Jan-2020 14:29:35 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 79
+[05-Jan-2020 14:29:48 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 70
+[05-Jan-2020 14:29:48 UTC] PHP Notice:  Undefined variable: rconstatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 74
+[05-Jan-2020 14:29:48 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 79
+[05-Jan-2020 14:30:00 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 70
+[05-Jan-2020 14:30:00 UTC] PHP Notice:  Undefined variable: rconstatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 74
+[05-Jan-2020 14:30:00 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 79
+[05-Jan-2020 14:30:02 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 70
+[05-Jan-2020 14:30:02 UTC] PHP Notice:  Undefined variable: rconstatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 74
+[05-Jan-2020 14:30:02 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 79
+[05-Jan-2020 14:49:05 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 83
+[05-Jan-2020 14:49:05 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 93
+[05-Jan-2020 14:49:33 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 83
+[05-Jan-2020 14:49:33 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 93
+[05-Jan-2020 14:49:43 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 83
+[05-Jan-2020 14:49:43 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 93
+[05-Jan-2020 14:50:13 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 83
+[05-Jan-2020 14:50:13 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 93
+[05-Jan-2020 14:52:21 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 93
+[05-Jan-2020 14:52:21 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 103
+[05-Jan-2020 14:52:57 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 93
+[05-Jan-2020 14:52:57 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 103
+[05-Jan-2020 14:53:10 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 93
+[05-Jan-2020 14:53:10 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 103
+[05-Jan-2020 14:53:11 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 93
+[05-Jan-2020 14:53:11 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 103
+[05-Jan-2020 14:53:20 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 93
+[05-Jan-2020 14:53:20 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 103
+[05-Jan-2020 14:54:20 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 93
+[05-Jan-2020 14:54:20 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 103
+[05-Jan-2020 14:55:28 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 94
+[05-Jan-2020 14:55:28 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 104
+[05-Jan-2020 14:55:45 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 94
+[05-Jan-2020 14:55:45 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 104
+[05-Jan-2020 14:55:58 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 94
+[05-Jan-2020 14:55:58 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 104
+[05-Jan-2020 14:56:19 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 94
+[05-Jan-2020 14:56:19 UTC] PHP Notice:  Undefined variable: submit in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 104
+[05-Jan-2020 14:58:05 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 94
+[05-Jan-2020 14:58:11 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 94
+[05-Jan-2020 14:59:24 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 95
+[06-Jan-2020 06:44:22 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 95
+[06-Jan-2020 13:02:42 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 95
+[06-Jan-2020 13:06:21 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 96
+[06-Jan-2020 13:08:26 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 96
+[06-Jan-2020 13:09:44 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 96
+[06-Jan-2020 13:09:46 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 96
+[06-Jan-2020 13:11:46 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 97
+[06-Jan-2020 13:11:51 UTC] PHP Notice:  Undefined variable: propertystatus in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 97
+[06-Jan-2020 13:25:46 UTC] PHP Notice:  Undefined variable: datawritable in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 114
+[06-Jan-2020 13:25:46 UTC] PHP Notice:  Undefined variable: datawritable in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 115
+[06-Jan-2020 13:37:28 UTC] PHP Notice:  Undefined index: remote_addr in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 14
+[06-Jan-2020 13:37:28 UTC] PHP Notice:  Undefined index: server_addr in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 15
+[06-Jan-2020 13:37:29 UTC] PHP Notice:  Undefined index: remote_addr in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 14
+[06-Jan-2020 13:37:29 UTC] PHP Notice:  Undefined index: server_addr in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 15
+[06-Jan-2020 13:40:43 UTC] PHP Notice:  Undefined index: remote_addr in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 14
+[06-Jan-2020 13:40:43 UTC] PHP Notice:  Undefined index: server_addr in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 15
+[06-Jan-2020 14:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function parseproperties() in /var/www/html/grx3.com/projects/grx3mcbot/install.php:23
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 23
+[06-Jan-2020 14:22:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function parseproperties() in /var/www/html/grx3.com/projects/grx3mcbot/install.php:23
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 23
+[06-Jan-2020 14:22:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function parseproperties() in /var/www/html/grx3.com/projects/grx3mcbot/install.php:23
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/grx3.com/projects/grx3mcbot/install.php on line 23

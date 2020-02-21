@@ -48,4 +48,4 @@ A pretty exhaustive stat system of anything it can log via the interface it has.
 
 Demo: minecraft://play.grx3.com
 
-Website: http://grx3.com
+Website: https://grx3.com
